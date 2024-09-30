@@ -86,7 +86,7 @@
             this.servicesBtn.HoverState.Parent = this.servicesBtn;
             this.servicesBtn.Image = ((System.Drawing.Image)(resources.GetObject("servicesBtn.Image")));
             this.servicesBtn.ImageSize = new System.Drawing.Size(30, 30);
-            this.servicesBtn.Location = new System.Drawing.Point(321, 6);
+            this.servicesBtn.Location = new System.Drawing.Point(322, 6);
             this.servicesBtn.Name = "servicesBtn";
             this.servicesBtn.ShadowDecoration.Parent = this.servicesBtn;
             this.servicesBtn.Size = new System.Drawing.Size(138, 44);
