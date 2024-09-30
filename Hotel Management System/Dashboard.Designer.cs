@@ -181,7 +181,7 @@
             this.guna2Button3.Location = new System.Drawing.Point(164, 6);
             this.guna2Button3.Name = "guna2Button3";
             this.guna2Button3.ShadowDecoration.Parent = this.guna2Button3;
-            this.guna2Button3.Size = new System.Drawing.Size(141, 44);
+            this.guna2Button3.Size = new System.Drawing.Size(140, 44);
             this.guna2Button3.TabIndex = 4;
             this.guna2Button3.Text = "Rooms";
             this.guna2Button3.Click += new System.EventHandler(this.guna2Button3_Click);
